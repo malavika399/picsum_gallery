@@ -9,7 +9,7 @@ def flutterVersionName = localProperties.getProperty('flutter.versionName') ?: '
 
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
-apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+apply plugin: 'flutter'
 
 android {
     namespace "com.example.picsum_gallery"
