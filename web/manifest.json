@@ -1,0 +1,12 @@
+{
+    "name": "Picsum Gallery",
+    "short_name": "Picsum",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0D0D14",
+    "theme_color": "#B388FF",
+    "description": "A beautiful image gallery powered by Lorem Picsum.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
